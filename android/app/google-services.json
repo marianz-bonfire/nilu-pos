@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "881938428215",
+    "project_id": "nilu-e70c4",
+    "storage_bucket": "nilu-e70c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881938428215:android:8a2572943107aa20ae2ab2",
+        "android_client_info": {
+          "package_name": "com.shokhrukhbek.nilu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881938428215-dpp8jj6ef42r3ean48fphbi5ame8kulb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYLl874gG5hYXxKrvGfwjwbSeSCkeoFS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881938428215-dpp8jj6ef42r3ean48fphbi5ame8kulb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881938428215-4422s4v4vllq49qmjnbkbmkessp87ic2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shokhrukhbek.nilu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
